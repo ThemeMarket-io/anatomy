@@ -1,0 +1,2 @@
+# anatomy
+Ghost starter theme
